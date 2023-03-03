@@ -5,7 +5,7 @@ The goal of this project is to detect and recognize different hand signs from a 
 
 ## Prerequisites
 Before you begin, you will need the following:
-* MediaPipe
+* MediaPipe 
 * OpenCV 4+
 
 ## Usage
